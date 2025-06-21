@@ -7,7 +7,7 @@ An elegant and modern E-commerce website built using **HTML**, **CSS**, **JavaSc
 ## 🔥 Live Preview
 
 > {https://tailorno1ec.web.app/)  
-> *(Replace with your hosted site link if available)*
+>
 
 ---
 
