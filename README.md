@@ -1,4 +1,4 @@
-# 🛍️ TN CREATION - E-commerce Website
+# E-commerce Website
 
 An elegant and modern E-commerce website built using **HTML**, **CSS**, **JavaScript**, and **Firebase** for real-time backend functionalities.
 
@@ -68,12 +68,3 @@ tailorno1/
 
 ---
 
-### 📝 What to do next:
-1. Save the 4 images (`e1.PNG`, `2.PNG`, `3.PNG`, `4.PNG`) inside your GitHub repo root or an `/assets` or `/images` folder.
-2. Update links in the `README.md` if you move them to a subfolder.
-3. Push `README.md`:
-
-```bash
-git add README.md
-git commit -m "Add README with screenshots and project details"
-git push origin master
